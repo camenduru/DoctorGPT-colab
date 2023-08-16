@@ -8,6 +8,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DoctorGPT-colab/blob/main/doctor-gpt-7b-text-generation-webui-colab.ipynb) | Doctor-GPT-7b-Text-Generation-WebUI-Colab (16bit)
 
+## Main Video
+https://www.youtube.com/watch?v=J9nJh33GM-w
+
 ## Main Repo
 https://github.com/llSourcell/DoctorGPT (Thanks to @llSourcell ❤)
 
