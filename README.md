@@ -21,7 +21,7 @@ https://github.com/oobabooga/text-generation-webui (Thanks to @oobabooga ❤)
 https://huggingface.co/llSourcell/medllama2_7b/tree/main
 
 ## Output
-![image](https://github.com/camenduru/DoctorGPT-colab/assets/54370274/af9266bb-f272-42d1-b220-ce8af27d4b7a)
+![Screenshot 2023-08-16 195915](https://github.com/camenduru/DoctorGPT-colab/assets/54370274/f6303162-fdb4-4582-ae06-9acbcdf993e2)
 
 ## Medical Advice Disclaimer
 DISCLAIMER: THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE
