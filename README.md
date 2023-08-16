@@ -15,3 +15,5 @@ https://github.com/llSourcell/DoctorGPT
 ## Model
 https://huggingface.co/llSourcell/medllama2_7b/tree/main
 
+## Output
+![image](https://github.com/camenduru/DoctorGPT-colab/assets/54370274/af9266bb-f272-42d1-b220-ce8af27d4b7a)
