@@ -6,10 +6,13 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DoctorGPT-colab/blob/main/doctor-gpt-7b-text-generation-webui-colab.ipynb) | doctor-gpt-7b-text-generation-webui-colab https://github.com/oobabooga/text-generation-webui (Thanks to @oobabooga ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DoctorGPT-colab/blob/main/doctor-gpt-7b-text-generation-webui-colab.ipynb) | Doctor-GPT-7b-Text-Generation-WebUI-Colab
 
 ## Main Repo
-https://github.com/llSourcell/DoctorGPT
+https://github.com/llSourcell/DoctorGPT (Thanks to @llSourcell ❤)
+
+## UI Repo
+https://github.com/oobabooga/text-generation-webui (Thanks to @oobabooga ❤)
 
 ## Model
 https://huggingface.co/llSourcell/medllama2_7b/tree/main
